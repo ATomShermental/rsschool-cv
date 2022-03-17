@@ -9,3 +9,14 @@
     - JS
     - HTML&CSS
     - GIT
+5. Code example:
+```
+void ReverseVector(vector<int>& v){
+    unsigned long n = v.size();
+    for(int i = 0;i <=n/2; i ++){
+        int temp = v[i];
+        v[i] = v[n-i-1];
+        v[n-i-1] = temp;
+    }
+}
+```

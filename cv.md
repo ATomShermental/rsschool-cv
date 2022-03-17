@@ -22,5 +22,5 @@ void ReverseVector(vector<int>& v){
 ```
 6. Work experience:
     - projects at the institute
-7. Finished secondary school in 2021 and entered BSU (Faculty of Applied Mathematics and Informatics)
+7. Finished secondary school in 2021 and entered BSU (Faculty of Applied Mathematics and Informatics).
 8. English level - **B1**. I have practice in speaking but not with native speakers. 

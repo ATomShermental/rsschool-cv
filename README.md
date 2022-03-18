@@ -1,1 +1,1 @@
-https://ATomShermental.github.io/rsschool-cv/cv
+https://ATomShermental.github.io/rsschool-cv/
